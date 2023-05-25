@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Karla&family=Oswald&display=swap");
+
+body {
+  font-family: "Karla", sans-serif;
+}
+b,
+h5 {
+  font-family: "EB Garamond", serif;
+}
+.bgdark {
+  background-color: #212529;
+}
+.bglight {
+  background-color: #c4c8cb;
+}
+.whitecolor {
+  color: white;
+}
+.darkcolor {
+  color: #212529;
+}
+.btn-primary {
+  border-color: #c4c8cb;
+  background-color: transparent;
+  color: #c4c8cb;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #c4c8cb;
+  color: #212529;
+}
+i {
+  font-size: 1.8rem;
+}
+i.bi-youtube {
+  color: #ff0000;
+}
+i.bi-facebook {
+  color: #4267b2;
+}
+i.bi-instagram {
+  color: #8a3ab9;
+}
+i.bi-instagram {
+  color: #8a3ab9;
+}
+
+.textStyle {
+  color: white;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+a {
+  color: white;
+}
